@@ -141,7 +141,7 @@
 @media (min-width: 320px) and (max-width: 767px) {
 	#preloader img {
 		position: absolute;
-		top: 52%;
+		top: 51%;
 		left: 44%;
 	}
 	.fplus-load
