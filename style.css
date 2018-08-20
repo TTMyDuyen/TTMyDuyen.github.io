@@ -286,8 +286,8 @@ li {
 }
 
 .fplus-load {
-    -webkit-animation: 1s linear 0s normal none infinite running fplus-load;
-    animation: 1s linear 0s normal none infinite running fplus-load;
+    -webkit-animation: 100ms linear 0s normal none infinite running fplus-load;
+    animation: 100ms linear 0s normal none infinite running fplus-load;
     background: transparent none repeat scroll 0 0;
     border-color: #bdd863 #bdd863 #599c43;
     border-radius: 50%;
