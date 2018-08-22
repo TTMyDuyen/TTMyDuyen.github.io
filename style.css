@@ -496,6 +496,7 @@ li {
 	font-size:16px;
 	font-weight:bold;
 	cursor: pointer;
+	outline:none;
 }
 #more {
 	display: none;
