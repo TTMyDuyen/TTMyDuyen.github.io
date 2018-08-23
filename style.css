@@ -781,20 +781,27 @@ li {
     position: relative;
     z-index: 1;
 }
-.footer-nav-widget ul > li > a {
+.footer-nav-widget ul > li > h6 {
     color: rgba(255, 255, 255, 0.8);
-    font-size: 12px;
+    font-size: 16px;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+    display: block;
+}
+.footer-nav-widget ul > li > p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+    letter-spacing: 1px;
     padding: 10px 0;
     display: block;
 }
-.footer-nav-widget ul > li > a:hover {
+/*.footer-nav-widget ul > li > a:hover {
     color: rgba(255, 255, 255, 1);
-}
+}*/
 .subscribe-widget p {
+	margin-top:-15px;
     color: #fff;
-    font-size: 12px;
+    font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 2px;
     padding: 10px 0;
@@ -846,7 +853,7 @@ li {
 .footer-social-widget > a:last-child {
     margin-right: 0;
 }
-.about-us-widget
+/*.about-us-widget
 {
 	width:200px;
 	height:150px;	
@@ -854,7 +861,7 @@ li {
 .about-us-widget img
 {
 	width:100%;	
-}
+}*/
 /* Single Portfolio Area CSS */
 .fplus-single-portfolio-area {
     position: relative;
