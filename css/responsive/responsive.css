@@ -206,24 +206,6 @@
 		
         height: 450px;
     }
-	/*.fplus-hero-area .sidenav
-	{
-		width:250px;
-		height:300px;	
-	}
-	.fplus-hero-area .nd_core h1
-	{
-		
-		font-size:18px;
-		line-hieght:25px;
-	}
-	.fplus-hero-area .title_core p
-	{
-		margin-left:25px;
-		height:3px;
-		font-size:18px;
-		line-hieght:25px;
-	}*/
     .hero-content-area .hero-text h2 {
         font-size: 30px;
         margin-bottom: 50px;
@@ -287,6 +269,10 @@
         width: calc(80% - 0px);
         bottom: 200px;
     }
+	.about-us-widget
+	{
+		opacity:1;
+	}
     .single-portfolio-text {
         padding: 30px;
         width: 250px;
@@ -405,6 +391,10 @@
 	{
 		width:350px;
 		height:280px;	
+	}
+	.about-us-widget
+	{
+		opacity:1;
 	}
 	.gallery-hover-overlay .port-hover-text > h3 {
         font-size: 21px;

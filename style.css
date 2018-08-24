@@ -738,7 +738,7 @@ li {
 }
 #googleMap {
     width: 100%;
-    height: 600px;
+    height: 400px;
 }
 .contact_input_area .form-group .form-control {
     padding: 10px 0;
@@ -853,15 +853,11 @@ li {
 .footer-social-widget > a:last-child {
     margin-right: 0;
 }
-/*.about-us-widget
+.about-us-widget
 {
-	width:200px;
-	height:150px;	
+	height:50px;	
+	opacity:0;
 }
-.about-us-widget img
-{
-	width:100%;	
-}*/
 /* Single Portfolio Area CSS */
 .fplus-single-portfolio-area {
     position: relative;
