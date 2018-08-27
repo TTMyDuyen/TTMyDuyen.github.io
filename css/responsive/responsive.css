@@ -258,6 +258,7 @@
     {
         width:150px;
 	    height:100px;	
+		opacity:1;
     }
     .fplus-single-blog-area {
         margin-bottom: 30px;
@@ -269,10 +270,6 @@
         width: calc(80% - 0px);
         bottom: 200px;
     }
-	.about-us-widget
-	{
-		opacity:1;
-	}
     .single-portfolio-text {
         padding: 30px;
         width: 250px;
