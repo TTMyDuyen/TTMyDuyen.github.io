@@ -124,7 +124,7 @@
         $('.item').matchHeight();
     }
 
-    var $window = $(window);
+    var $window = $('#home');
 
     // :: 11.0 Preloader active code
     $window.on('load', function () {
