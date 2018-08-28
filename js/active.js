@@ -4,7 +4,7 @@
     // :: 11.0 Preloader active code
     $window.on('load', function () {
         $('#preloader').fadeOut('fast', function () {
-            $(this).remove();
+            $(document).remove();
         });
     });
 	
