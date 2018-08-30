@@ -1,13 +1,4 @@
 (function ($) {
-	/* var $window = $(window);
-
-    // :: 11.0 Preloader active code
-    $window.on('load', function () {
-        $('#preloader').fadeOut('fast', function () {
-            $(document).remove();
-        });
-    });*/
-	
     'use strict';
 
     if ($.fn.owlCarousel) {
@@ -133,6 +124,14 @@
         $('.item').matchHeight();
     }
 
-   
+   /* var $window = $(window);
+
+    // :: 11.0 Preloader active code
+    $window.on('load', function () {
+        $('#preloader').fadeOut('fast', function () {
+            $(document).remove();
+        });
+    });*/
+	
 
 })(jQuery);
